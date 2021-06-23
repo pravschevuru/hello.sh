@@ -19,3 +19,5 @@
                 <sonar.login>admin</sonar.login>
                 <sonar.password>admin123</sonar.password>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+</properties>
+</project>
