@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+
+    <groupId>com.jenkov</groupId>
+
+    <artifactId>hello-world</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0.0</version>
+<properties>
+                <jdk.version>1.8</jdk.version>
+                <spring.version>5.1.2.RELEASE</spring.version>
+                <junit.version>4.11</junit.version>
+                <log4j.version>1.2.17</log4j.version>
+                <sonar.host.url>http://13.234.66.159:9000/</sonar.host.url>
+                <sonar.login>admin</sonar.login>
+                <sonar.password>admin123</sonar.password>
+                <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
